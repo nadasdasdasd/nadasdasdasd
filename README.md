@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @nadanisrina
-- 👀 I’m interested in ``Jakarta``
+- 👀 I’m at ``Jakarta``
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking for people to collaborate with 
 - 📫 How to reach me nisrinaseptiana026@gmail.com
