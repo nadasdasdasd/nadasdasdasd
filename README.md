@@ -1,4 +1,7 @@
-WELCOME TO MY GITHUB PROFILE. you can contact me at nisrinaseptiana026@gmail.com
+#WELCOME TO MY GITHUB PROFILE. 
+
+you can contact me at `nisrinaseptiana026@gmail.com`
+hope we can collaborate together!~
 
 <!---
 nadanisrina/nadanisrina is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
