@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @nadanisrina
-- 👀 I’m at ``Jakarta``
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking for people to collaborate with 
-- 📫 How to reach me nisrinaseptiana026@gmail.com
+WELCOME TO MY GITHUB PROFILE. you can contact me at nisrinaseptiana026@gmail.com
 
 <!---
 nadanisrina/nadanisrina is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
