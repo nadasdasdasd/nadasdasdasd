@@ -1,9 +1,3 @@
 ✨WELCOME TO MY GITHUB PROFILE.✨
 
-you can contact me at `nisrinaseptiana026@gmail.com`
-hope we can collaborate together!~
-
-<!---
-nadanisrina/nadanisrina is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+![Codewars](https://github.r2v.ch/codewars?user=nadddd&stroke=%23BB432C)
